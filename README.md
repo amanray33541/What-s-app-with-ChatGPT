@@ -18,7 +18,6 @@ To run you have to fllows these steps
 9. pip install os-sys
 10. pip install os-sys
 11. pip install (if any other library still required
-12. run the file on terminal on same directory as
 13. run the file on terminal on same directory as
 14. python server.py
 15. it will redirect to firefox if you want to open in chrome use chromium instead of firefox in server.py file at line 16
