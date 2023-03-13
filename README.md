@@ -12,11 +12,11 @@ To run you have to fllows these steps
   a.Python :- https://www.python.org/downloads/
   b.Golang :- https://jmeubank.github.io/tdm-gcc/
 5. install the following library using pip (or any)
-  a.pip install flask
-  b.pip install playwright
-  c.pip install virtualenv
-  d.pip install os-sys
-  e.pip install (if any other library still required
+6. pip install flask
+pip install playwright
+pip install virtualenv
+pip install os-sys
+pip install (if any other library still required
 6.run the file on terminal on same directory as
   python server.py
   it will redirect to firefox if you want to open in chrome use chromium instead of firefox in server.py file at line 16
